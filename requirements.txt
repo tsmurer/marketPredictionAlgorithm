@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+tensorflow
+keras
+matplotlib  # For visualization
+TA-Lib  # For technical indicators
+yfinance  # For fetching stock data
+requests  # For making API calls
+jupyter  # For running Jupyter notebooks
